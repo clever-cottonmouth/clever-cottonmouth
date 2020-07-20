@@ -23,4 +23,3 @@ My name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 <br>
 **Insta Handle([@mirajhad](https://www.instagram.com/mirajhad/))!** :heart:
 <br>
-**LinkedIn([@mirajhad])(https://www.linkedin.com/in/mirajhad/))!** :heart:
