@@ -26,23 +26,24 @@ My name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
+  
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  <a href="https://javascript.info" target="_blank" >
+    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/js.gif" width="120" />
   </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/mongo.gif"  height="75" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
+  <a href="https://www.php.net" target="_blank" >
+    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/php.gif"  height="75" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/html-css-js.png" height="70" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
   </a>
  </p>
 **Say Hi on Twitter([@hadish110](https://twitter.com/hadish110))!** :heart: 💬
