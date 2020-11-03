@@ -2,7 +2,7 @@
 
 **Glad to see you here!** :star_struck: 
 <br>
-My name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, Bangalore** Persuing Master of Computer Applications. I loves coding and most of the time i usually like to do Coding. I have created many projects related to Reactjs, Nodejs, Python and in python i have some working knowledge on TensorFlow, Scikit-Learn, Matplotlib. Beside this like like to spend my time with nature means i like to planting small plants in my Balcony. When I see the plants are growing it feels like achived Something.
+My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, Bangalore** Persuing Master of Computer Applications. I loves coding and most of the time i usually like to do Coding. I have made many projects related to Php, C#.NET, Reactjs, Nodejs, Python. You can check out my projects given below. Along with that i to solve Competative Programming on GeeksforGeeks.😉 And Beside that I like to take Amazing Pictures with my DSLR EOS 1500D  📷 📷 .
 <br>
 <br>
 <br>
