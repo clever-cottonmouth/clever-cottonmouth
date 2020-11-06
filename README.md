@@ -5,6 +5,7 @@
 My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, Bangalore** Persuing Master of Computer Applications. I loves coding and most of the time i usually like to do Coding. I have made many projects related to Php, C#.NET, Reactjs, Nodejs, Python. You can check out my projects given below. Along with that i solve Competative Programming on GeeksforGeeks.😉 And Beside that I like to take Amazing Pictures with my DSLR EOS 1500D 📷 .
 <br>
 <br>
+![Miraj's github stats](https://github-readme-stats.vercel.app/api?username=mirajhad&hide=issues&show_icons=true&theme=onedark)
 <br>
 **You can check out my live projects**
 <br>
@@ -19,6 +20,7 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 [**Click here to view more Projects**](https://github.com/mirajhad?tab=repositories)
 <br>
 <br>
+##Skills
 <p float="left">
   <a href="https://isocpp.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/c%2B%2B.png"  height="90" />
