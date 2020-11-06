@@ -20,7 +20,7 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 [**Click here to view more Projects**](https://github.com/mirajhad?tab=repositories)
 <br>
 <br>
-##Skills
+###Skills
 <p float="left">
   <a href="https://isocpp.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/c%2B%2B.png"  height="90" />
