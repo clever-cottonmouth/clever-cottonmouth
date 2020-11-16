@@ -10,7 +10,8 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 <br>
-**You can check out my live projects**
+
+### You can check out my live projects
 <br>
 [**Covid Status Checker**](https://mirajhad.github.io/COVID-19-STATUS/)
 <br>
