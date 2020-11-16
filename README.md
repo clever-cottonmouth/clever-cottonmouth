@@ -6,7 +6,6 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 <br>
 <br>
 ### 🔧 Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&theme=radical&layout=compact" height="300" width="350"/>
