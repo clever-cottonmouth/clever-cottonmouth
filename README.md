@@ -52,9 +52,8 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
   </a>
  </p>
-**Say Hi on Twitter([@hadish110](https://twitter.com/hadish110))!** :heart: 💬
-<br>
-**Insta Handle([@mirajhad](https://www.instagram.com/mirajhad/))!** :heart:
-<br>
-**Join us our Discord Server**(https://discord.com/invite/utAAMhNbrJ)
-<br>
+### 📫 How to reach me:   
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mirajhad/)](https://github.com/mirajhad/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirajhad//)](https://www.linkedin.com/in/mirajhad/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirajhadish48@gmail.com)](mailto:mirajhadish48@gmail.com)
