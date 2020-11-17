@@ -52,6 +52,8 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
   </a>
  </p>
+ 
+ 
 ### 📫 How to reach me:   
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mirajhad/)](https://github.com/mirajhad/)
