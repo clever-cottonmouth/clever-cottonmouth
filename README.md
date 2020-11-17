@@ -61,4 +61,4 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mirajhad/)](https://github.com/mirajhad/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirajhad//)](https://www.linkedin.com/in/mirajhad/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirajhadish48@gmail.com)](mailto:mirajhadish48@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhadish110)]
+[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhadish110&link=https://twitter.com/hadish110)]
