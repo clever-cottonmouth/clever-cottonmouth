@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajhad" alt="mirajhad" /> </p>
+
 ### Hello Coders 👋
 
 **Glad to see you here!** :star_struck: 
