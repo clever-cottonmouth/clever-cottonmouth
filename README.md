@@ -14,18 +14,18 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 
 
 ### You can check out my live projects.
-  <br>
+ <br>
 <a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
 <br>
-[**Online Examination System**](https://exam01.000webhostapp.com)
+<a href="https://exam01.000webhostapp.com">2. Online Examination System</a>
 <br>
-[**Portfolio**](https://mdmiraj.netlify.app)
+<a href="https://mdmiraj.netlify.app">3. Portfolio</a>
 <br>
-[**Simple Responsive Website**](https://mirajhad.github.io/Responsive-Website/)
+<a href="https://mirajhad.github.io/Responsive-Website">3. Simple Responsive Website</a>
 <br>
-[**Transport Management System**](https://tport01.000webhostapp.com//)
+<a href="https://tport01.000webhostapp.com">4. Transport Management System </a>
 <br>
-[**Click here to view more Projects**](https://github.com/mirajhad?tab=repositories)
+<a href="https://github.com/mirajhad?tab=repositories">**Click here to view more Projects**</a>
 <br>
 
  
