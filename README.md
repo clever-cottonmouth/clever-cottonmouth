@@ -15,7 +15,7 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 
 ### You can check out my live projects.
   <br>
-[**Covid Status Checker**](https://mirajhad.github.io/COVID-19-STATUS/)
+<a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
 <br>
 [**Online Examination System**](https://exam01.000webhostapp.com)
 <br>
