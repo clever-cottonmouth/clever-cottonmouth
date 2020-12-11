@@ -13,7 +13,7 @@ My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, B
 </div>
 
 
-### You can check out my live projects.
+### You can check my live projects.
  <br>
 <a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
 <br>
