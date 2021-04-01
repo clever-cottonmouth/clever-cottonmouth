@@ -4,7 +4,7 @@
 
 **Glad to see you here!** :star_struck: 
 <br>
-My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, Bangalore** Pursuing Master of Computer Applications. I loves coding and most of the time i usually like to do Coding. I have made many projects related to Php, C#.NET, Reactjs, Nodejs, Python. You can check out my projects given below. Along with that i solve Competative Programming on GeeksforGeeks.😉 And Beside that I like to take Amazing Pictures with my DSLR EOS 1500D 📷 .
+My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, Bangalore** Pursuing Master of Computer Applications. I loves coding and most of the time i usually like to do Coding. I have made many projects related to Php, C#.NET, Reactjs, Nodejs, Python. You can check out my projects given below. Along with that i solve Competitive Programming on GeeksforGeeks.😉 And Beside that I like to take Amazing Pictures with my DSLR EOS 1500D 📷 .
 <br>
 ### 🔧 Stats
 <div align="center">
