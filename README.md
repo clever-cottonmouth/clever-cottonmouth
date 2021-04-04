@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajhad" alt="mirajhad" /> </p>
 
-### Hello Coders 👋
+Ever since I was a little kid, software development has been my passion. I still remember sitting in front of 7000 bucks of old pc, with the Turbo C loaded in, making it print "Hello, Miraj" for the first time. As I went through the C language tutorial, it was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. Through middle and high school, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple First Person engine, with dozens of projects in between. I learned C, then C++, tearing through any books I could find on anything remotely related to software development. I was insatiable.
 
-**Glad to see you here!** :star_struck: 
-<br>
-My Name is [**MD Miraj Ansari**] Studying in **Acharya Insitute of Technology, Bangalore** Pursuing Master of Computer Applications. I loves coding and most of the time i usually like to do Coding. I have made many projects related to Php, C#.NET, Reactjs, Nodejs, Python. You can check out my projects given below. Along with that i solve Competitive Programming on GeeksforGeeks.😉 And Beside that I like to take Amazing Pictures with my DSLR EOS 1500D 📷 .
-<br>
+This passion carried me through my education at VTU. Here there were more resources available to me than I ever could have imagined as a Kid. I studied new languages, algorithms, compilers, all with pretty much the same fascination that drove me as a kid. And it was here that I learned truly how much there was yet to learn.
+
+So, now, in industry, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. 
 ### 🔧 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
