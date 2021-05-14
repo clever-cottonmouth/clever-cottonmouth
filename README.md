@@ -36,6 +36,7 @@ So, now, in industry, this passion remains with me. There's certainly yet more t
   <a href="https://isocpp.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/c%2B%2B.png"  height="90" />
   </a>
+  extra &nbsp;&nbsp; space
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
