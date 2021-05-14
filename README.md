@@ -5,8 +5,10 @@
 ☮☮ This passion carried me through my education at VTU. Here there were more resources available to me than I ever could have imagined as a Kid. I studied new languages, algorithms, compilers, all with pretty much the same fascination that drove me as a kid. And it was here that I learned truly how much there was yet to learn.
 
 So, now, in industry, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. 
+
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 ### 🔧 Stats
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&theme=radical&layout=compact" height="300" width="350"/>
