@@ -58,6 +58,18 @@ So, now, in industry, this passion remains with me. There's certainly yet more t
   <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
   </a>
+  
+  <a href="#" target="_blank" >
+    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/android.gif" height="70" />
+  </a>
+  
+  <a href="#" target="_blank" >
+    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/react.gif" height="70" />
+  </a>
+  
+  <a href="#" target="_blank" >
+    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
+  </a>
  </p>
  
  
