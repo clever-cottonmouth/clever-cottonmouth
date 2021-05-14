@@ -36,53 +36,59 @@ So, now, in industry, this passion remains with me. There's certainly yet more t
   <a href="https://isocpp.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/c%2B%2B.png"  height="90" />
   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://javascript.info" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/js.gif" width="120" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/mongo.gif"  height="75" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/php.gif"  height="75" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/html-css-js.png" height="70" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
   </a>
-  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank" >
     <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/android.gif" height="70" />
   </a>
-  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank" >
     <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/react.gif" height="70" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="#" target="_blank" >
     <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/git.gif" height="70" />
   </a>
-  
-   <a href="#" target="_blank" >
-    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/git.gif" height="85" />
-  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
   
   <a href="#" target="_blank" >
     <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/python.gif" height="80" />
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
    <a href="#" target="_blank" >
     <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/ubuntu.gif" height="70" />
   </a>
+  
  </p>
  
  
