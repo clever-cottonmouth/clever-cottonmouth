@@ -68,7 +68,19 @@ So, now, in industry, this passion remains with me. There's certainly yet more t
   </a>
   
   <a href="#" target="_blank" >
-    <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/postgresql.gif" height="70" />
+    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/git.gif" height="70" />
+  </a>
+  
+   <a href="#" target="_blank" >
+    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/git.gif" height="85" />
+  </a>
+  
+  <a href="#" target="_blank" >
+    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/python.gif" height="80" />
+  </a>
+  
+   <a href="#" target="_blank" >
+    <img src="https://github.com/mirajhad/mirajhad/blob/master/Logos/ubuntu.gif" height="70" />
   </a>
  </p>
  
