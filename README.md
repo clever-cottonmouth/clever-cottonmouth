@@ -14,6 +14,7 @@
 
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 ### 🔧 Stats
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
@@ -23,6 +24,7 @@
 
 ### You can check my live projects.
  <br>
+ <hr>
 <a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
 <br>
 <a href="https://exam01.000webhostapp.com">2. Online Examination System</a>
