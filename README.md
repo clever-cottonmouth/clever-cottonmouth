@@ -1,10 +1,16 @@
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Mohammad Miraj Ansari](https://mdmiraj.netlify.app/)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+
+![alt text](https://github.com/mirajhad/mirajhad/blob/master/1.jfif) 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajhad" alt="mirajhad" /> </p>
 
-💚💚Ever since I was a little kid, software development has been my passion. I still remember sitting in front of 7000 bucks of old pc, with the Turbo C loaded in, making it print "Hello, Miraj" for the first time. As I went through the C language tutorial, it was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. Through middle and high school, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple First Person engine, with dozens of projects in between. I learned C, then C++, tearing through any books I could find on anything remotely related to software development. I was insatiable.🔴
-
-☮☮ This passion carried me through my education at VTU. Here there were more resources available to me than I ever could have imagined as a Kid. I studied new languages, algorithms, compilers, all with pretty much the same fascination that drove me as a kid. And it was here that I learned truly how much there was yet to learn.
-
-So, now, in industry, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. 
+ 
 
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 ### 🔧 Stats
