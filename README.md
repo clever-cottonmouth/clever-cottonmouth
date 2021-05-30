@@ -23,7 +23,7 @@
 </div>
 
 <hr>
-###You can check my live projects.
+### You can check my live projects.
  <br>
 <a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
 <br>
@@ -39,7 +39,7 @@
 <br>
 
  
-###Skills
+### Skills
 <p float="left">
   <a href="https://isocpp.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/mirajhad/mirajhad/master/Logos/c%2B%2B.png"  height="90" />
