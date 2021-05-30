@@ -14,7 +14,7 @@
 
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 <hr>
-### <u>🔧 Stats</u>
+### 🔧 Stats
 
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 <hr>
-### <u>You can check my live projects.</u>
+### You can check my live projects.
  <br>
 <a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
 <br>
