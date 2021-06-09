@@ -36,7 +36,7 @@
 <br>
 <a href="https://github.com/mirajhad?tab=repositories">**Click here to view more Projects**</a>
 <br>
-
+<hr>
  
 ### Skills
 <p float="left">
