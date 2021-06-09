@@ -97,9 +97,4 @@
  </p>
  
  
-### 📫 How to reach me:   
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mirajhad/)](https://github.com/mirajhad/)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirajhadish48@gmail.com)](mailto:mirajhadish48@gmail.com)
 
