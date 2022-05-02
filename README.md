@@ -3,7 +3,7 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">]() 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mirajhad/)
 
-<img src="https://github.com/mirajhad/mirajhad/blob/master/1.jfif" width="1000" height="200">
+<!-- <img src="https://github.com/mirajhad/mirajhad/blob/master/1.jfif" width="1000" height="200"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajhad" alt="mirajhad" /> </p>
 
