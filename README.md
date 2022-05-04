@@ -8,8 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajhad" alt="mirajhad" /> </p>
 
  
-
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 <hr>
 
 ### 🔧 Stats
