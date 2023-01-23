@@ -22,18 +22,6 @@
 
 ### You can check my live projects.
  <br>
-<a href="https://mirajhad.github.io/COVID-19-STATUS">1. Covid Status Checker</a>
-<br>
-<a href="https://exam01.000webhostapp.com">2. Online Examination System</a>
-<br>
-<a href="https://mdmiraj.netlify.app">3. Portfolio</a>
-<br>
-<a href="https://mirajhad.github.io/Responsive-Website">3. Simple Responsive Website</a>
-<br>
-<a href="https://tport01.000webhostapp.com" style="color:red">4. Transport Management System</a>
-<br>
-<a href="https://github.com/mirajhad?tab=repositories">**Click here to view more Projects**</a>
-<br>
 <hr>
  
 ### Skills
