@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/mirajhad?v=3)
+
 
 <!-- Title -->
 <h3 align="center">
