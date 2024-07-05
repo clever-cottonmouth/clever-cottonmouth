@@ -27,9 +27,7 @@
                         src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
         </a>
         <!-- NextJS -->
-        <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        </a>
+        
         <!-- TailwindCSS -->
         <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="TailwindCSS"
                         src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
