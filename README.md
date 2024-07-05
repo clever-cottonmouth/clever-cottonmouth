@@ -41,8 +41,7 @@
             <img alt="Miraj's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
         <br>
-            <img alt="Miraj'ss"
-                src="[https://github-readme-stats.vercel.app/api?username=mirajhad&show_icons=true&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=mirajhad&hide_border=true&theme=dark%22%3E)" />
+            <img  />
         <br>
             <img alt="Miraj's GitHub Stats"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=mirajhad&hide_border=true&theme=dark%22%3E" />
