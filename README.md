@@ -47,16 +47,16 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Miraj's GitHub Stats"
-                src="[https://github-readme-stats.vercel.app/api?username=mirajhad&show_icons=true&theme=radical](https://denvercoder1-github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96)" />
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
         <br>
             <img alt="Miraj's GitHub Stats"
-                src="[https://github-readme-stats.vercel.app/api?username=mirajhad&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96)" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
         <br>
             <img alt="Miraj's GitHub Stats"
                 src="[https://github-readme-stats.vercel.app/api?username=mirajhad&show_icons=true&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=mirajhad&hide_border=true&theme=dark%22%3E)" />
         <br>
             <img alt="Miraj's GitHub Stats"
-                src="[https://github-readme-stats.vercel.app/api?username=mirajhad&show_icons=true&theme=radical](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)" />
+                src="https://github-readme-streak-stats.herokuapp.com/?user=mirajhad&hide_border=true&theme=dark%22%3E" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
