@@ -1,5 +1,5 @@
 <!-- Title -->
-<div style="background-image: url('https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg'); background-size: cover; padding: 20px;">
+<div style="background: url('https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg') no-repeat center center; background-size: cover; padding: 20px;">
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
