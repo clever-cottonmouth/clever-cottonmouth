@@ -26,16 +26,7 @@
         <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
         </a>
-        <!-- NextJS -->
-        
-        <!-- TailwindCSS -->
-        <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-        </a>
+       
 </p>
 
 <!-- Details Section -->
