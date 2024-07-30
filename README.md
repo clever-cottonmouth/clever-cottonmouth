@@ -50,9 +50,7 @@
     <a href="https://twitter.com/mirajhad" target="_blank"><img alt="Twitter"
       src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/mirajhad/" target="_blank"><img alt="Linkedin"
-      src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-    </a>
+
     <a href="https://www.youtube.com/c/mirajhad/videos" target="_blank"><img alt="Youtube"
       src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
     </a>
