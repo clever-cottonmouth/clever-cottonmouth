@@ -39,9 +39,7 @@
     <img alt="Miraj's Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
     <br>
-    <img alt="Miraj's GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mirajhad&hide_border=true&theme=dark" />
-    <br>
+   <br>
     <!-- Social Links -->
     <p>Find me on</p>
     <a href="mailto:mirajhadish48@gmail.com" target="_blank"><img alt="Mail"
