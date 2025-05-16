@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://mirajhad.github.io/">Md Miraj Ansari</a></b>
+    <b><a target="_blank" href="https://clever-cottonmouth.github.io/">clever cottonmouth</a></b>
   </samp>
 </h3>
 <br>
@@ -18,10 +18,10 @@
     <br>
   </samp>
   <!-- Technologies -->
-  <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="JavaScript"
+  <a href="https://github.com/clever-cottonmouth?tab=repositories" target="_blank"><img alt="JavaScript"
     src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   </a>
-  <a href="https://github.com/mirajhad?tab=repositories" target="_blank"><img alt="React"
+  <a href="https://github.com/clever-cottonmouth?tab=repositories" target="_blank"><img alt="React"
     src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
   </a>
   <!-- Add more technology badges here if needed -->
@@ -33,21 +33,16 @@
   <p align="center">
     <br>
     <!-- Activity Widget -->
-    <img alt="Miraj's GitHub Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mirajhad&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
+    <img alt="Clever's GitHub Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=clever-cottonmouth&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
     <br>
     <img alt="Miraj's Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajhad&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=clever-cottonmouth&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" />
     <br>
    <br>
     <!-- Social Links -->
     <p>Find me on</p>
-    <a href="mailto:mirajhadish48@gmail.com" target="_blank"><img alt="Mail"
-      src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-    </a>
-    <a href="https://twitter.com/mirajhad" target="_blank"><img alt="Twitter"
-      src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-    </a>
+
   </p>
 </details>
 <br>
