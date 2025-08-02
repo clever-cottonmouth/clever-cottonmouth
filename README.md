@@ -41,7 +41,7 @@
     <br>
    <br>
     <!-- Social Links -->
-    <p>Find me on</p>
+    <!--<p>Find me on</p> -->
 
   </p>
 </details>
